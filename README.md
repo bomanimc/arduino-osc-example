@@ -19,6 +19,7 @@
 - Select 'Learn' in the top right corner of the OSC control popup window.
 - `cd` into the cloned directory this repo.
 - Run `node main.js`
+- You should now see the Speed parameter in MadMapper changing in response to the JS sine function values.
 
 ### Next Steps
 There are two options:
